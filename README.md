@@ -11,7 +11,6 @@ I’ve been learning web design and development for 3 years, after switching car
 * ✉️  You can contact me at [henson@four-five.org](mailto:henson@four-five.org)
 * 🧠  I'm learning Figma and Webflow
 * 🤝  I'm open to collaborating on No-code website development projects
-* ⚡  I'm secretly Spiderman... but don't tell our neighbor
 
 ### Skills
 
